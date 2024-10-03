@@ -1,6 +1,4 @@
-Thanks for downloading this template!
+# Demo Web
 
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+#### Esto es una página web de demostración para utilizar [Github Pages](https://pages.github.com/).
+#### La web debería estar disponible online [aquí]().
